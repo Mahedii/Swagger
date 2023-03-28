@@ -23,7 +23,5 @@
         "installer-paths":{
           "public/": ["mahadi/swagger-ui-for-laravel-project"]
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
