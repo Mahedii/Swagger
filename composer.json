@@ -21,7 +21,7 @@
     },
     "extra":{
         "installer-paths":{
-          "path/to/custom/dir/{public}/": ["mahadi/swagger-ui-for-laravel-project"]
+          "public/": ["mahadi/swagger-ui-for-laravel-project"]
         }
     },
     "minimum-stability": "stable",
